@@ -2,7 +2,6 @@
 
 [![CI](https://github.com/go-ruby-widgets/mvvm/actions/workflows/ci.yml/badge.svg)](https://github.com/go-ruby-widgets/mvvm/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-ruby-widgets/mvvm.svg)](https://pkg.go.dev/github.com/go-ruby-widgets/mvvm)
-[![Go Report Card](https://goreportcard.com/badge/github.com/go-ruby-widgets/mvvm)](https://goreportcard.com/report/github.com/go-ruby-widgets/mvvm)
 
 The pure-Go, Ruby-runtime-independent core of the Ruby **`mvvm`** gem — the
 data-binding layer of the [go-widgets](https://github.com/go-widgets) ecosystem
