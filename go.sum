@@ -4,3 +4,5 @@ github.com/go-widgets/mvvm v0.11.0 h1:/TOL6VSV5GoUgFeC6e+pYjird/iXyWeaCJxsd143uL
 github.com/go-widgets/mvvm v0.11.0/go.mod h1:P+Pqo09ALSyHCF9O6f9hVmzrNI9NnnMhlWnx3tgqqv4=
 github.com/go-widgets/mvvm v0.13.0 h1:cfBIsT29StK0gknb4jqiOQhKZNcWf+PUR/jYpuoHmm0=
 github.com/go-widgets/mvvm v0.13.0/go.mod h1:9DjoZRoUkdBcMd0KeiN6T6zWCjOR1enX1Rmcj96WDFY=
+github.com/go-widgets/mvvm v0.15.0 h1:VvZiLB7gm+5CIEeQH3GNI53ytUndzOznT/fJvaG8hOQ=
+github.com/go-widgets/mvvm v0.15.0/go.mod h1:ZJj5M8zDg/gdzcvdWnJgZj/fcV0qe84fALq+EQVzUOM=
